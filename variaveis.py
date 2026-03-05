@@ -3,7 +3,7 @@ numero = 19
 print("Número inteiro:", numero)
 
 # Float: usado para números decimais (ponto flutuante)
-metros = 1.80
+metros = 1.80 
 print("Número decimal (float):", metros)
 
 # String: sequência de caracteres (texto)
