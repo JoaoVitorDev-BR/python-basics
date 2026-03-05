@@ -1,5 +1,5 @@
 # Inteiro: usado para números sem parte decimal
-numero = 19
+numero = 19 
 print("Número inteiro:", numero)
 
 # Float: usado para números decimais (ponto flutuante)
