@@ -1,6 +1,6 @@
-# python-basics
+# Fundamentos de Python
 
-Este repositório contém exemplos de sintaxe básica em Python, separados por arquivos para facilitar o estudo.
+Este repositório contém exemplos de sintaxe básica em Python, separados por arquivos para facilitar o estudo e a prática.
 
 ## Arquivos
 
@@ -32,3 +32,8 @@ Este repositório contém exemplos de sintaxe básica em Python, separados por a
 ## Objetivo
 Este repositório serve como guia inicial para aprender a sintaxe básica de Python.  
 Cada arquivo mostra exemplos práticos de conceitos fundamentais da linguagem.
+
+## Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/JoaoVitorDev-BR/fundamentos-python.git
