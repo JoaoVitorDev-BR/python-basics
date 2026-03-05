@@ -23,6 +23,12 @@ Este repositório contém exemplos de sintaxe básica em Python, separados por a
   - **For:** laços de repetição com intervalo definido.  
   - **While:** laços de repetição enquanto a condição for verdadeira.
 
+- **funcoes.py**  
+  Exemplos de funções em Python:
+  - **Função simples:** sem parâmetros.  
+  - **Função com parâmetros:** recebe valores e retorna resultado.  
+  - **Função com parâmetro padrão:** usa valor definido ou substitui por outro.
+
 ## Objetivo
 Este repositório serve como guia inicial para aprender a sintaxe básica de Python.  
 Cada arquivo mostra exemplos práticos de conceitos fundamentais da linguagem.
